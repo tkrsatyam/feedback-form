@@ -1,7 +1,5 @@
 # Feedback Form
 
-![Website Screenshot](screenshot.png)
-
 ## Overview
 
 The Feedback Form Website is a simple web application designed to collect feedback from users about their experience with our product. It includes a user-friendly feedback form with various questions to gather valuable insights.
