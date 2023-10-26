@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #fffdd0;
+    background: #011f4b;
     margin: 0;
     padding: 0;
     color: #333;
@@ -11,7 +11,6 @@ body {
 .container {
     max-width: 700px;
     margin: 20px auto;
-    background-color: #ffffff;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -63,7 +62,7 @@ input[type="email"]:focus,
 input[type="tel"]:focus,
 select:focus,
 textarea:focus {
-    border-color: #FFD700;
+    border-color: #03396c;
     outline: none;
 }
 
@@ -87,7 +86,7 @@ input[type="radio"] {
 
 input[type="submit"],
 input[type="reset"] {
-    background-color: #F4BC1C;
+    background-color: #011f4b;
     color: #fff;
     padding: 12px 20px;
     border: none;
@@ -100,7 +99,7 @@ input[type="reset"] {
 
 input[type="submit"]:hover,
 input[type="reset"]:hover {
-    background-color: #f1b60c;
+    background-color: #03396c;
     transform: translateY(-3px); /* Button lift effect */
 }
 
